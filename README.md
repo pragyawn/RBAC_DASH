@@ -106,12 +106,6 @@ NextAuth (Authentication Layer)
 
 ---
 
-## 📸 Screenshots (Optional)
-
-*(Add screenshots here — e.g. dashboard view, approval panel, event scheduler)*
-
----
-
 ## 📜 License
 
 This project is licensed under the **MIT License** — feel free to modify and use for educational or organizational purposes.
