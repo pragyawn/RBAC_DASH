@@ -52,16 +52,18 @@ It introduces a **role-based access control system** that ensures secure, seamle
 git clone https://github.com/pragyawn/RBAC_DASH.git
 cd RBAC_DASH
 
-## Getting Started
+## 2️⃣ Install Dependencies
+```bash
+npm install
 
-First, run the development server:
 
+### 3️⃣ Configure Environment Variables
+```bash
+MONGODB_URI=your_mongodb_connection_string
+NEXTAUTH_SECRET=your_secret_key
+NEXTAUTH_URL=http://localhost:3000
+
+### 4️⃣ Run the Application
 ```bash
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+
