@@ -47,23 +47,28 @@ It introduces a **role-based access control system** that ensures secure, seamle
 
 ## ⚙️ Installation & Setup
 
-### 1️⃣ Clone the Repository
+1️⃣ **Clone the Repository**
 ```bash
 git clone https://github.com/pragyawn/RBAC_DASH.git
 cd RBAC_DASH
+```
 
-## 2️⃣ Install Dependencies
+2️⃣ **Install Dependencies**
 ```bash
 npm install
+```
 
-
-### 3️⃣ Configure Environment Variables
-```bash
+3️⃣ **Configure Environment Variables**
+Create a `.env.local` file in the project root and add:
+```env
 MONGODB_URI=your_mongodb_connection_string
 NEXTAUTH_SECRET=your_secret_key
 NEXTAUTH_URL=http://localhost:3000
+```
 
-### 4️⃣ Run the Application
+4️⃣ **Run the Application**
 ```bash
 npm run dev
+```
 
+The app will start at **http://localhost:3000**
