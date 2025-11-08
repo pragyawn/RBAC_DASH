@@ -90,12 +90,6 @@ NextAuth (Authentication Layer)
 
 ---
 
-## 🧑‍💻 Contributors
-
-**Pragyan Chauhan** — Full Stack Developer & Architect  
-*(React, Next.js, MongoDB, NextAuth)*
-
----
 
 ## 🏁 Results & Impact
 
